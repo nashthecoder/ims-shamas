@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  playernames: MyString
+  dateofbirth: 2023-05-03
+  caregivernames: MyString
+  phone: MyString
+  relationship: MyString
+  clinic: MyString
+  team: MyString
+
+two:
+  playernames: MyString
+  dateofbirth: 2023-05-03
+  caregivernames: MyString
+  phone: MyString
+  relationship: MyString
+  clinic: MyString
+  team: MyString
